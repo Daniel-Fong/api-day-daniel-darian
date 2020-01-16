@@ -24,7 +24,7 @@ const toggleCheckedFilter = function () {
   this.hideCheckedItems = !this.hideCheckedItems;
 };
 
-const setError = function(err) {
+const setError = function(error) {
   this.error = error;
 };
 
